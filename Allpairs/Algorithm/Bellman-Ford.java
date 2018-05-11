@@ -10,6 +10,7 @@ import algorithm.dataStructures.Graph;
 //Bellman-ford shortest path. bekerja pada negative dan positif weight
 //edges. juga mendeteksi negative weight cycles, mengembalikan total cost shortest path dan jalannya
 //references : https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
+// https://github.com/phishman3579
 
 public class BellmanFord {
 

@@ -9,7 +9,7 @@ import algorithm.dataStructures.Graph;
 // Floyd-Warshall algoritma untuk mencari jarak terpendek dari sebuah graph
 // positif atau negatif weight dari edge
 // Referensi : https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm
-
+// https://github.com/phishman3579
 
 public class FloydWarshall {
 

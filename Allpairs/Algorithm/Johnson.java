@@ -7,6 +7,7 @@ import java.util.Map;
 import algorithm.dataStructures.Graph;
 
 //referensi : https://en.wikipedia.org/wiki/Johnson%27s_algorithm
+// https://github.com/phishman3579
 
 public class Johson {
 
